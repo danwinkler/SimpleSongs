@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TableLayout android:id="@+id/tableLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button android:text="@string/folder1" android:id="@+id/folder1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/folder2" android:id="@+id/folder2" android:layout_weight="1"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/folder3" android:id="@+id/folder3" android:layout_weight="1"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/folder4" android:id="@+id/folder4" android:layout_weight="1"></Button>
+    </TableLayout>

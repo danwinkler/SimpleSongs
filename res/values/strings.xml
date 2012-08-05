@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleSongs!</string>
+    <string name="app_name">SimpleSongs</string>
+    <string name="folder1">Folder 1</string>
+    <string name="folder2">Folder 2</string>
+    <string name="folder3">Folder 3</string>
+    <string name="folder4">Folder 4</string>
+    <string name="whiteColor">#FFFFFF</string>
+</resources>
